@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\ffarh\OneDrive\Desktop\Codes\Maersk\Maersk25-26\Openai_Sdk\code_image_eleven.py", line 17, in <module>
+    print("\U0001f527 Investment Calculator with gpt-4o")
+  File "C:\Users\ffarh\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f527' in position 0: character maps to <undefined>
